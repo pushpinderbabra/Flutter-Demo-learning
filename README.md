@@ -15,3 +15,15 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+### Flutter Application user interface
+****
+<table>
+  <tr>
+    <td>Home Screen</td>
+     <td>Navigation Drawer</td>
+  </tr>
+  <tr>
+    <td><img src="image1.png" width=270 height=480></td>
+    <td><img src="image2.png" width=270 height=480></td>
+  </tr>
+  </table>
